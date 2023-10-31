@@ -1,0 +1,8 @@
+{
+    "stubPath": "C:\\Users\\angel\\OneDrive\\Escritorio\\ODOODEV\\OdooCF\\odoo-stubs16",
+    "extraPaths": [
+        "C:\\Users\\angel\\OneDrive\\Escritorio\\ODOODEV\\OdooCF\\odoo16",
+        "C:\\Users\\angel\\OneDrive\\Escritorio\\ODOODEV\\OdooCF\\odoo16\\addons",
+        "C:\\Users\\angel\\OneDrive\\Escritorio\\ODOODEV\\odoo-docker-devlocal\\addons-clase"
+    ]
+}
